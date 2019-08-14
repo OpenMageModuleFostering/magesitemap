@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+        <reference name="footer_links">
+            <action method="addLink" translate="label title" module="contacts">
+				<label>Store Sitemap</label>
+				<url>magesitemap</url>
+				<title>Store Sitemap</title>
+				<prepare>true</prepare>
+			</action>
+        </reference>
+    </default>	
+</layout> 

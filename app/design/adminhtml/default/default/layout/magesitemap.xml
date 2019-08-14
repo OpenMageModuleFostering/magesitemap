@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <magesitemap_adminhtml_magesitemap_index>
+        <reference name="content">
+            <block type="magesitemap/adminhtml_magesitemap" name="magesitemap" />
+        </reference>
+    </magesitemap_adminhtml_magesitemap_index>
+</layout>
